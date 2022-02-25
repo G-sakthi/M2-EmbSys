@@ -23,6 +23,7 @@ Threat:
 Cost Containment Pressure
 
 # DESIGN
+![Capture](https://user-images.githubusercontent.com/98867749/154887560-2362e103-2f85-4675-aaea-c46c6f35ed9a.PNG)
 
 1) Timing circuit: 
 The timing circuit determines the basic timing rate of the pulse generator. It consists of an RC network, reference voltage source, a comparator etc.
