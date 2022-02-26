@@ -70,26 +70,18 @@ Increase in compliance demands.
  # Description Requirements
 
 # High Level Requirements
-ID DESCRIPTION STATUS 
-
-HL01 Smart sitting charge determines Implemented
-     at office(value 30)
-HL02 Smart sitting charge determines Implemented
-     at office(valus 40) 
-HL03  Smart sitting charge determines Implemented
-     at office(valus 50)         
-HL04  Smart sitting charge determines Implemented
-     at office(valus 50)
-HL05  Smart sitting charge determines Implemented
-     at office(valus 50)    
-HL06   Smart sitting charge determines Implemented
-     at office(valus 50)  
+|**ID**|**DESCRIPTION**|** STATUS**| 
+|----|----|----|
+|HL01| Smart sitting charge determines at office(value 30)| Implemented
+|HL02| Smart sitting charge determines at office(valus 40)| Implemented
+|HL03| Smart sitting charge determines at office(valus 50)| Implemented        
+|HL04| Smart sitting charge determines at office(valus 50)| Implemented
+|HL05| Smart sitting charge determines at office(valus 50)| Implemented 
+|HL06| Smart sitting charge determines at office(valus 50)| Implemented  
      
 # Low Level Requirements
-ID  DESCRIPTION STATUS
-LL01_HL02 Determines smart  Implemented 
-          sitting at office
-LL02_HL02 Determines smart  Implemented 
-          sitting at school        
-LL03_HL03 Determines smart  Implemented 
-          sitting at company
+|**ID**|**DESCRIPTION**|**STATUS**|
+|---|---|---|
+|LL01_HL02| Determines smart sitting at office|  Implemented
+|LL02_HL02| Determines smart sitting at school|  Implemented        
+|LL03_HL03| Determines smart sitting at company| Implemented
