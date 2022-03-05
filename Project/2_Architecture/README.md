@@ -1,8 +1,10 @@
-# SEQUENTIAL DIAGRAM
+# 3 ARCHITECTURE
+
+# 3.1SEQUENTIAL DIAGRAM
 
 ![Capture 1](https://user-images.githubusercontent.com/98867749/156880611-2443c4ac-1ca2-4a19-b108-630b7566416c.PNG)
 
-# BLOCK DIAGRAM
+# 3.2BLOCK DIAGRAM
 
 ![bd](https://user-images.githubusercontent.com/98867749/156872349-262a875b-6a4f-4e8f-a454-b2f25c766cf9.PNG)
 
@@ -73,6 +75,33 @@ channel A/D converter. Mems sensors monitor the Dimensions which is connected to
 the digital converter.
 
 ![xyz](https://user-images.githubusercontent.com/98867749/156880517-77071c7b-4d63-4017-a50d-8c8fe8244f40.PNG)
+
+# FUTURE SCOPE
+In this project, a smart sitting chair is designed for the office employees who
+are all working in the IT sector for a long time. A Smart chair with low cost to avoid
+some health-related issues is proposed in our project. Our project identifies eight
+different incorrect sitting postures such as Upright sitting (P1), Slumped sitting (P2),
+Leaning forward (P3), Leaning backward (P4), Leaning left (P5), Leaning right (P6),
+Right leg crossed (P7), Left leg crossed (P8) of a person and detects who works for a
+long duration and alerts them by sending message through mobile phones connected
+via Bluetooth and also the person gets an alert message in their desktop/laptop screen
+with the use of Wi-Fi. If the person continues to sit for a long time in the wrong
+position, the position motor which is connected using motor driver in our system will
+adjust the movement of chair according to the user’s comfortableness.
+The eight sitting postures are:
+ P1 – Slumped Sitting
+ P2 – Leaning forward
+ P3 – Leaning backward
+ P4 – Leaning left
+ P5 – Leaning right
+ P6 – Right leg crossed
+ P7 – Left leg crossed
+ Thus the three sitting postures Right side, Leftside, Forward direction.
+Indications are monitored with the help of sensor module. Based on the received
+values, our system will automatically adjust the movement of the chair with the help
+of position motor which is attached to the control unit. If the person sits for a long time
+the temperature will be noted and if the temperature values goes beyond the threshold
+value our system will give a alert with the help of LED.
 
 
 
