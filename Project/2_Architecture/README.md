@@ -1,3 +1,7 @@
+# SEQUENTIAL DIAGRAM
+
+![Capture 1](https://user-images.githubusercontent.com/98867749/156880611-2443c4ac-1ca2-4a19-b108-630b7566416c.PNG)
+
 # BLOCK DIAGRAM
 
 ![bd](https://user-images.githubusercontent.com/98867749/156872349-262a875b-6a4f-4e8f-a454-b2f25c766cf9.PNG)
