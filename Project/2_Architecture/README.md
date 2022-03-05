@@ -1,23 +1,3 @@
-Sitting is one of the most common postures of human being in day-to-day life.
-People spend a long time on sitting in an office chair or lounge chair. Biomedical
-engineering, public healthcare service and facility design are sitting behavior analysis
-becomes an important research topic recently in a variety of
-domain. An average adult watches television or relaxes for two hours a day. Working
-hours which are mostly eight in an average case, start standing at least two hours of
-those eight hours. However, every person tries to push those two hours to four hours
-for relaxation and decreases stress level. This means that at work the person should
-spend as much time standing as the person sit. The prolonged sitting has been equated
-with not just obesity, heart disease and diabetes but also with depression, cancer, joint
-pains and muscle problems. It is so harmful that is repercussions have been equated to
-that of the smoking or HIV.
-Until now, people are absolutely failing to understand or even acknowledge the
-need to stand more. These Diseased people have a significant impact on office
-productivity. With respect to avoid the adverse effects of poor sitting behavior, the
-real-time monitoring of sitting posture has received particular attention.
-In previous method the sitting positions are monitored, and the mechanism
-involved was moving and bending approach installed in chair and cost is more to get
-the soft sitting chair. Due to this, companies face productivity loss as well as the
-employees stress level gets increased. To overcome this our project comes up with the
-idea of developing a system with low power consumption and low computing overhead
-and additional features include a position motor to re-position the chair to the original
-position.
+# BLOCK DIAGRAM
+
+![bd](https://user-images.githubusercontent.com/98867749/156872349-262a875b-6a4f-4e8f-a454-b2f25c766cf9.PNG)
