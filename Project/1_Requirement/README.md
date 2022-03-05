@@ -1,17 +1,31 @@
 # TABLE OF CONTENT
+
 1 INTRODUCTION
+
 1.1 ABSTRACT
-1.2 Cost and time
-1.3 Swot analysis
+
+1.2 COST AND TIME 
+
+1.3 SWOT ANALYSIS
+
 1.4 4W's and 1'H
-2 Description Requirements
+
+2 DESCRIPTION REQUIREMENTS 
+
 2.1 HIGH LEVEL REQUIREMENTS
+
 2.2 LOW LEVEL REQUIREMENTS
+
 3 ARCHITECTURE
+
 3.1 SEQUENTIAL DIAGRAM
+
 3.2 BLOCK DIAGRAM
+
 3.3 COMPONENTS REQUIRED
+
 3.4 FUTURE SCOPE
+
 # 1 Introduction
 Sitting is one of the most common postures of human being in day-to-day life.
 People spend a long time on sitting in an office chair or lounge chair. Biomedical
