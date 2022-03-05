@@ -1,4 +1,18 @@
-# Introduction
+# TABLE OF CONTENT
+1 INTRODUCTION
+1.1 ABSTRACT
+1.2 Cost and time
+1.3 Swot analysis
+1.4 4W's and 1'H
+2 Description Requirements
+2.1 HIGH LEVEL REQUIREMENTS
+2.2 LOW LEVEL REQUIREMENTS
+3 ARCHITECTURE
+3.1 SEQUENTIAL DIAGRAM
+3.2 BLOCK DIAGRAM
+3.3 COMPONENTS REQUIRED
+3.4 FUTURE SCOPE
+# 1 Introduction
 Sitting is one of the most common postures of human being in day-to-day life.
 People spend a long time on sitting in an office chair or lounge chair. Biomedical
 engineering, public healthcare service and facility design are sitting behavior analysis
@@ -23,7 +37,7 @@ idea of developing a system with low power consumption and low computing overhea
 and additional features include a position motor to re-position the chair to the original
 position.
 
-# Referance
+# 1.1 ABSTRACT 
 Sitting is the most common status of human beings. Some sitting postures may bring
 health issues. To overcome, the harm from bad sitting postures, a local sitting posture
 recognition system is desired with low power consumption and low computing
@@ -42,11 +56,11 @@ position, the position motor which is connected using motor driver in our system
 adjust the movement of chair according to the user’s comfortableness. Thus, our
 proposed system will bring a beneficial for both office and office employee.
 
-# Cost and time
+# 1.2 Cost and time
 
 This is the plot of cost
 
-# Swot analysis
+# 1.3 Swot analysis
 
 Strengths:
 Clear strategic vision.
@@ -64,7 +78,7 @@ Threats:
 Stagnation of patient Growth.
 Increase in compliance demands.
 
-# 4W's and 1'H
+# 1.4 4W's and 1'H
  Who : Office.
 
  What : Smart Sitting chair.
@@ -75,9 +89,9 @@ Increase in compliance demands.
 
  How : determine the position of the chair.
 
- # Description Requirements
+# 2 Description Requirements
 
-# High Level Requirements
+# 2.1 High Level Requirements
 |**ID**|**DESCRIPTION**|**STATUS**| 
 |----|----|----|
 |HL01| Smart sitting charge determines at office(value 30)| Implemented
@@ -87,7 +101,7 @@ Increase in compliance demands.
 |HL05| Smart sitting charge determines at office(valus 50)| Implemented 
 |HL06| Smart sitting charge determines at office(valus 50)| Implemented  
      
-# Low Level Requirements
+# 2.2 Low Level Requirements
 |**ID**|**DESCRIPTION**|**STATUS**|
 |---|---|---|
 |LL01_HL02| Determines smart sitting at office|  Implemented
