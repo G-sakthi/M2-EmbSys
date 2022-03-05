@@ -1,12 +1,14 @@
 # 3 ARCHITECTURE
 
-# 3.1SEQUENTIAL DIAGRAM
+# 3.1 SEQUENTIAL DIAGRAM
 
 ![Capture 1](https://user-images.githubusercontent.com/98867749/156880611-2443c4ac-1ca2-4a19-b108-630b7566416c.PNG)
 
-# 3.2BLOCK DIAGRAM
+# 3.2 BLOCK DIAGRAM
 
 ![bd](https://user-images.githubusercontent.com/98867749/156872349-262a875b-6a4f-4e8f-a454-b2f25c766cf9.PNG)
+
+# 3.3 COMPONENT REQUIRED
 
 # POWER SUPPLY
 A power supply (sometimes known as a power supply unit or PSU) is a device
@@ -76,7 +78,71 @@ the digital converter.
 
 ![xyz](https://user-images.githubusercontent.com/98867749/156880517-77071c7b-4d63-4017-a50d-8c8fe8244f40.PNG)
 
-# 3.3 FUTURE SCOPE
+# TEMPERATURE SENSOR
+The two versions of the DHT sensor, they look a bit similar and have the same
+pinout, but have different characteristics, where DHT11 is a wireless connection.
+Temperature sensor senses the temperature of the person who is sitting in the
+chair. The DTH sensors are made up of two parts a capacitive humidity sensor and a
+thermistor.
+# Arduino
+The Arduino UNO is a microcontroller board based on the ATmega328. It has
+14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs,
+a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a
+reset button. It contains everything needed to support the microcontroller, simply
+connect it to a computer with a USB cable or power it with a AC-to-DC adapter or
+battery to get started.
+
+# MOTOR DRIVER
+Motor driver are circuits used to run a motor. In other words, they are
+commonly used for motor interfacing. These drive circuits can be easily interfaced with
+the motor and their selection depends upon the type of motor being used and their
+ratings (current, voltage).
+
+# UART
+A universal asynchronous receiver-transmitter is a computer hardware device
+for asynchronous serial communication in which the data format and transmission
+speeds are configurable. It sends data bits one by one, from the least significant to the
+most significant, framed by start and stop bits so that precise timing is handled by the
+communication channel. The electric signaling levels are handled by a driver circuit
+external to the UART.
+
+# BLUETOOTH
+Bluetooth is a short-range wireless communication technology standard.
+Bluetooth uses short-wavelength UHF radio waves of a frequency range between 2.4
+and 2.485 GHz. Bluetooth enables one to create a personal area network wherein
+multiple devices talk to each other wirelessly via Bluetooth. Bluetooth is a replacement
+for cabling in various personally carried applications in any setting and works for fixed
+location applications such as smart energy functionality in the home. Bluetooth was
+intended for portable equipment and its applications. Bluetooth serves well in simple
+applications where two devices need to connect with a minimal configuration like a
+button press, as in headsets and speakers.
+
+# WIFI
+Wi-Fi is a family of wireless network protocols, based on the IEEE
+802.11 family of standards, which are commonly used for local area networking of
+devices and Internet access, allowing nearby digital devices to exchange data by radio
+waves. Here Wi-Fi plays a important role it gives the alert messages to the sitting
+person in the chair through desktop or mobile phones. Wi-Fi is intended as a
+replacement for high-speed cabling for general local area network access in work areas
+or home. This category of applications is sometimes called wireless local area
+networks (WLAN). Bluetooth and Wi-Fi have some similar applications: setting up
+networks, printing, or transferring files. In this project, if the person or employees
+sitting in the same position for a long time in the chair the notification message is send
+through the phone which is connected via Bluetooth and the message alerts the person
+and comes to the original sitting chair.
+
+# LCD
+LCD (Liquid Crystal Display) screen is an electronic display module and find
+a wide range of applications. A 16x2 LCD display is very basic module and is very
+commonly used in various devices and circuits. These modules are preferred over
+seven segment sand other multi segment LEDs.
+The reasons being: LCDs are economical; easily programmable; have no
+limitation of displaying special & even custom characters, animations and so on. A
+16x2 LCD means it can display 16 characters per line and there are 2 such lines. In
+this LCD each character is displayed in 5x7 pixel matrix. This LCD has two registers,
+namely, Command and Data.
+
+# 3.4 FUTURE SCOPE
 In this project, a smart sitting chair is designed for the office employees who
 are all working in the IT sector for a long time. A Smart chair with low cost to avoid
 some health-related issues is proposed in our project. Our project identifies eight
