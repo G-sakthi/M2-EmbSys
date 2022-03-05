@@ -76,7 +76,7 @@ the digital converter.
 
 ![xyz](https://user-images.githubusercontent.com/98867749/156880517-77071c7b-4d63-4017-a50d-8c8fe8244f40.PNG)
 
-# FUTURE SCOPE
+# 3.3 FUTURE SCOPE
 In this project, a smart sitting chair is designed for the office employees who
 are all working in the IT sector for a long time. A Smart chair with low cost to avoid
 some health-related issues is proposed in our project. Our project identifies eight
