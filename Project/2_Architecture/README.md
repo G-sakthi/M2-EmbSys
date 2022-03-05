@@ -68,6 +68,8 @@ allows to redirect the analog outputs into a single pin for operation with a sin
 channel A/D converter. Mems sensors monitor the Dimensions which is connected to
 the digital converter.
 
+![xyz](https://user-images.githubusercontent.com/98867749/156880517-77071c7b-4d63-4017-a50d-8c8fe8244f40.PNG)
+
 
 
 
