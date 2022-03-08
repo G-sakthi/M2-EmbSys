@@ -70,11 +70,11 @@ position, the position motor which is connected using motor driver in our system
 adjust the movement of chair according to the user’s comfortableness. Thus, our
 proposed system will bring a beneficial for both office and office employee.
 
-# Cost and time
+# 1.2 Cost and time
 
 This is the plot of cost
 
-# Swot analysis
+# 1.3 Swot analysis
 
 Strengths:
 Clear strategic vision.
@@ -92,7 +92,7 @@ Threats:
 Stagnation of patient Growth.
 Increase in compliance demands.
 
-# 4W's and 1'H
+# 1.4 4W's and 1'H
  Who : Office.
 
  What : Smart Sitting chair.
@@ -103,9 +103,9 @@ Increase in compliance demands.
 
  How : determine the position of the chair.
 
- # Description Requirements
+#  2 Description Requirements
 
-# High Level Requirements
+# 2.1 High Level Requirements
 |**ID**|**DESCRIPTION**|**STATUS**| 
 |----|----|----|
 |HL01| Smart sitting charge determines at office(value 30)| Implemented
@@ -115,7 +115,7 @@ Increase in compliance demands.
 |HL05| Smart sitting charge determines at office(valus 50)| Implemented 
 |HL06| Smart sitting charge determines at office(valus 50)| Implemented  
      
-# Low Level Requirements
+# 2.2 Low Level Requirements
 |**ID**|**DESCRIPTION**|**STATUS**|
 |---|---|---|
 |LL01_HL02| Determines smart sitting at office|  Implemented
